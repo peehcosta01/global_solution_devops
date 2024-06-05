@@ -156,10 +156,6 @@ Se você deseja contribuir com este projeto, por favor siga os passos abaixo:
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
-## Contato
 
-Para mais informações, entre em contato através do email: [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
 
----
 
-Este `README.md` fornece todas as instruções necessárias para configurar, rodar e entender o projeto. Se houver mais detalhes específicos ou personalizações, sinta-se à vontade para ajustá-lo conforme necessário.
