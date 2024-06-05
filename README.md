@@ -32,7 +32,7 @@ Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
 Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/flask-todo-app.git
+git clone https://github.com/peehcosta01/global_solution_devops
 cd flask-todo-app
 ```
 
